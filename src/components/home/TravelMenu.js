@@ -1,7 +1,6 @@
 import React from "react"
 import { SimpleGrid, Box, Flex, Image, Heading } from "@chakra-ui/core"
 import { Link } from "gatsby"
-import Skeleton from "react-loading-skeleton"
 import travelMenu from "../../data/travelMenu"
 
 const TravelMenu = () => {
