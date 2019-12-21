@@ -18,10 +18,10 @@ const IndexPage = () => (
       <HeroSection />
     </Flex>
     <Box mt={10} mb={10}>
-      {/* <TravelMenu /> */}
+      <TravelMenu />
     </Box>
     <Stats />
-    {/* <TestimonialComponent /> */}
+    <TestimonialComponent />
     <Box mt={20} mb={20}>
       <ContactForm />
     </Box>
